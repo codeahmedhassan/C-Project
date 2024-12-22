@@ -29,3 +29,21 @@ Prerequisites
 A C++ compiler (e.g., g++) to compile and run the code.
 How to Run
 Compile the code using the following command:
+
+g++ -o zoo_management_system main.cpp
+
+
+Run the compiled executable:
+
+./zoo_management_system
+
+
+Follow the on-screen instructions to interact with the system.
+
+Future Improvements
+Add dynamic input for habitats and animals.
+Implement file handling to save and load zoo data.
+Enhance the ticketing system to support multiple ticket types.
+Add graphical elements using libraries like SFML or SDL.
+License
+This project is released under the MIT License. Feel free to use and modify it for educational purposes.
